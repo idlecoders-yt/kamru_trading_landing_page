@@ -11,7 +11,7 @@ function Hero() {
 
       <div className="eyebrow">
         <span />
-        TRADER AADI
+        KAMRUL MX COMMUNITY
         <span />
       </div>
 
