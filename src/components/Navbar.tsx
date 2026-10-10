@@ -8,9 +8,9 @@ function Navbar() {
       <a
         className="brand"
         href={TELEGRAM_URL}
-        aria-label="Trader Aadi Telegram Channel"
+        aria-label="KAMRUL MX COMMUNITY Telegram Channel"
       >
-        <img src={profileImage} alt="Trader Aadi" />
+        <img src={profileImage} alt="KAMRUL MX COMMUNITY" />
       </a>
 
       <a
