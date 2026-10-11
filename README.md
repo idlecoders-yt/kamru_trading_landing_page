@@ -20,7 +20,7 @@ npm run preview
 
 The CTA buttons currently use:
 
-https://t.me/+21n8Nahi8ENjZTk1
+https://t.me/+oKO3w-q7mSg4MjVl
 
 ## Profile image
 
