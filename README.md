@@ -1,4 +1,4 @@
-# Trader Aadi Telegram Landing Page
+# Kamrul MX Community Telegram Landing Page
 
 Vite + React + TypeScript landing page for the Trader Aadi Telegram channel.
 
