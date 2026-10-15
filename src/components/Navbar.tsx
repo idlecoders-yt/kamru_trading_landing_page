@@ -1,6 +1,6 @@
 import profileImage from '../assets/profile.jpg'
 
-const TELEGRAM_URL = 'https://t.me/+oKO3w-q7mSg4MjVl'
+const TELEGRAM_URL = 'https://t.me/+Q29Ju5SEQ6Y1MzFl'
 
 function Navbar() {
   return (
