@@ -1,7 +1,7 @@
 import HeroProfileImage from '../components/HeroProfileImage'
 import TelegramIcon from '../components/TelegramIcon'
 
-const TELEGRAM_URL = 'https://t.me/+oKO3w-q7mSg4MjVl'
+const TELEGRAM_URL = 'https://t.me/+Q29Ju5SEQ6Y1MzFl'
 
 function Hero() {
   return (
