@@ -8,7 +8,7 @@ import VIPSection from './sections/VIPSection'
 import JourneySection from './sections/JourneySection'
 import FinalCTA from './sections/FinalCTA'
 
-const LOCK_WEBSITE = false; // Set to true to lock the website
+const LOCK_WEBSITE = true; // Set to true to lock the website
 
 function App() {
   return (
